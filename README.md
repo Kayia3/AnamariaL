@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnamariaL
+- 👋 Hi, I’m @Ana
 - 👀 I’m interested in scripting, IoT projects and cloud development.
 - 🌱 I’m currently learning python for scripting, shell/bash, Raspberry PI and AWS
 - 💞️ I’m looking to collaborate on new project ideas, especially scripting or IoT
